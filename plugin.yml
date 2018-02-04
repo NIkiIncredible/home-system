@@ -1,0 +1,15 @@
+name: Homes
+version: 1.0
+description: Setze Homepunkte
+author: NikiIncredible
+main: me.NikiIncredible.Homes.Main
+website: http://Zayon.de
+commands:
+ sethome:
+  description: Setze deinen Homepunkt
+ home:
+  description: Telepotiere dich zu deinem Homepunkt
+ setspawn:
+  description: Setze den Spawnpunkt
+ spawn:
+  description: Telepotiere dich zum Spawnpunkt
